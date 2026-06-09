@@ -65,7 +65,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [UACPlugin](https://github.com/pierr3/UACPlugin) - Simulates European UAC systems
 - [ZoomDeclutter](https://github.com/pierr3/ZoomDeclutter) - Allows hiding and showing sector elements depending on zoom level
 - [RDF](https://github.com/chembergj/RDF) - Simulates Radio Direction Finding systems
-- [euroNAT](https://github.com/rffuret/euroNAT/)) - Display North Atlantic Tracks
+- [euroNAT](https://github.com/rffuret/euroNAT/) - Display North Atlantic Tracks
+  
 ## Clients
 - [vice](https://github.com/mmp/vice)
 - [vatSys](https://github.com/vatSys)
